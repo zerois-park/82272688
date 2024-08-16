@@ -6,8 +6,6 @@
 ## 설치 방법
 1. 프로젝트를 fork하여 사용자별 repo에서 작업합니다.
 
-[포크만들기](https://learn.microsoft.com/ko-kr/azure/devops/repos/git/forks?view=azure-devops&tabs=visual-studio#create-a-fork)를 참조합니다.
-
 2. fork한 프로젝트에 `gradle.setting` 또는 `pom.xml` 파일을 열어 gradle 빌드하는경우 `rootProject.Name`를 원하는 프로젝트 명으로 변경, 
    maven인경우 `<name><\name>`에 원하는 프로젝트명으로 변경합니다.
 
