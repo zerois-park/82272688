@@ -17,8 +17,7 @@
 - AKS에서 DB 접속 실습합니다.
 
 ## 샘플 Pipeline
-- CI: [Maven pipeline](https://dev.azure.com/ktds-playground/ce-pg-study/_git/cloud-sample?path=/azure-pipeline-ci-maven.yml&version=GBdevelop), [Gradle pipline](https://dev.azure.com/ktds-playground/ce-pg-study/_git/cloud-sample?path=%2Fazure-pipeline-ci-gradle.yml&version=GBdevelop)
-- [CD](https://dev.azure.com/ktds-playground/ce-pg-study/_git/cloud-sample?path=/azure-pipeline-cd.yml&version=GBdevelop)
+- CI: [Maven pipeline](https://github.com/axccoe/cloud-sample/blob/main/.github/workflows/ci-maven.yml), [Gradle pipline](https://github.com/axccoe/cloud-sample/blob/main/.github/workflows/ci-gradle.yml)
 
 ## 기능 목록
 - TODO List 목록 조회, 삭제, 수정.
