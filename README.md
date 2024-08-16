@@ -11,7 +11,7 @@
 
 ## 학습 내용
 - Kubernates ConfigMap을 사용하여 환경에 따른 Application yml적용을 실습합니다.
-- Github Actions을 사용하여 Build(gradle, maven, ACR, AKS) 실습합니다.
+- Github Actions을 사용하여 Build(gradle, maven, ACR) 실습합니다.
 - AKS에서 DB 접속 실습합니다.
 
 ## 샘플 Pipeline
