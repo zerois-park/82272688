@@ -1,11 +1,11 @@
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  name: test102602-ingress
+  name: 82222190-ingress
 spec:
   ingressClassName: ingress-internal
   rules:
-  - host: test102602.cepg-aa.kubepia.net
+  - host: 82222190.cepg-aa.kubepia.net
     http:
       paths:
       - path: /
