@@ -1,19 +1,19 @@
 apiVersion : apps/v1
 kind: Deployment
 metadata:
-  name: 82222190
+  name: "82222190"
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: 82222190
+      app: "82222190"
   template:
     metadata:
       labels:
-        app: 82222190
+        app: "82222190"
     spec:
       containers:
-        - name: 82222190
+        - name: "82222190"
           image: cepgstapacr.azurecr.io/test102602
           ports:
           - containerPort: 8080
