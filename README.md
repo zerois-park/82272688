@@ -1,4 +1,4 @@
-# Cloud-Sample
+# Cloud-Sample, Feature/Fix
 
 ## 프로젝트 설명
 샘플 프로젝트를 사용하여 CI pipeline을 사용하여 Application 배포하는 법을 학습합니다.
