@@ -31,7 +31,7 @@ import lombok.extern.slf4j.Slf4j;
 @RestController
 @RequestMapping("/api")
 public class SabunController {
-  @RequestMapping(method " RequestMethod.GET, path = "/v1/user")
+  @RequestMapping(method = RequestMethod.GET, path = "/v1/user")
   public String getUser() {
         return "82272688";
   }
