@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
-public class Sabuncontroller {
+public class SabunController {
 
     @GetMapping("/api/v1/user")
     public String getUserID() {
